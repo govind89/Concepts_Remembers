@@ -2,3 +2,7 @@
 # JVM Internals :
 
 http://blog.jamesdbloom.com/JVMInternals.html
+
+# ClassLoader in Distributed Env : 
+
+http://blog.cask.co/2015/08/java-class-loading-and-distributed-data-processing-frameworks/
